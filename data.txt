@@ -1,3 +1,4 @@
 Name: Gustavo Gesto Garcia
 Age: 30
+Birthday : 29 Apr
 Favorite Color: Blue
